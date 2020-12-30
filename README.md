@@ -1,5 +1,5 @@
 
-# LQR controller for a magnetic levitation train
+## LQR controller for a magnetic levitation train
 Control design for a transrapid (magnetic levitation train type) is here proposed using LQR.
 
 <img src="https://github.com/FedericoRollo/LQR-controller-for-a-magnetic-levitation-train/raw/master/TransrapidScheme.png" width="200" height="400" />
