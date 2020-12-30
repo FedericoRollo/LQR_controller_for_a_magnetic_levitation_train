@@ -22,3 +22,5 @@ Finally a simulation of the overall system is proposed.
 
 In the directory **Simulations** are contained all the simulations. Two main directories are present, one for the decoupled simulations and one for the finale complete simulations. For the latter there are two different simulations: for a **linear path** and for a linear path with a **curve**.  
 
+**Mechanical support contributors: Luca Minotti, Francesco Ancona, Lorenzo Bianchini.
+Control and Simulation support contributors: Federico Rollo, Adelina Selimi. **
