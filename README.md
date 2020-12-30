@@ -6,14 +6,14 @@ Control design for a transrapid (magnetic levitation train type) is here propose
 
 Simulation of the controlled system are presented using Simulink. 
 Main physical components considered are:
-1. transrapid as a rigid body with elastic components along two axis;
-2. electromagnets for levitation and for lateral guide;
-3. linear synchronous motor.
+1. Transrapid as a rigid body with elastic components along two axis;
+2. Electromagnets for levitation and for lateral guide;
+3. Linear synchronous motor.
 
 The cardinal equations for the dynamics of the system have been defined and decoupled on three main directions:
-1. Headway motion, along x axes (propulsion control);
-2. Sway motion, along y axes and equations for yaw angle (guidance control);
-3. Pump motion, along z axes, and equations for pitch and roll angles (levitation control).
+1. Headway motion, along x axes (**propulsion control**);
+2. Sway motion, along y axes and equations for yaw angle (**guidance control**);
+3. Pump motion, along z axes, and equations for pitch and roll angles (**levitation control**).
 
 After a linearization on defined operative points, a LQR controller has been designed for each motion. 
 Finally a simulation of the overall system is proposed. 
